@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>AI Voice Bot</title>
+</head>
+
+<body>
+
+<div align="center">
+
+    <h1 style="background-color:gray;color:#ffffff">AI Voice Bot</h1>
+
+    <!-- 🎤 MICROPHONE SECTION -->
+    <h3>🎤 Speak using microphone</h3>
+    <button onclick="startRecording()">Start Recording</button>
+    <button onclick="stopRecording()">Stop & Send</button>
+
+    <br><br>
+
+    <!-- 📂 FILE UPLOAD SECTION -->
+    <h3>📂 Upload an audio file</h3>
+    <input type="file" id="audioFile" accept="audio/*">
+    <button onclick="sendAudio()">Send</button>
+
+    <br><br>
+
+    <!-- 📊 STATUS + RESPONSE -->
+    <p id="status">Idle</p>
+    <p><b>Transcript:</b> <span id="transcript"></span></p>
+    <p><b>Response:</b> <span id="response"></span></p>
+
+    <!-- 🔊 AUDIO PLAYER -->
+    <audio id="audioPlayer" controls></audio>
+
+    <h4 style="background-color:yellow">
+        The response audio will be saved in 'Outputs/audio' after sending.
+    </h4>
+
+</div>
+
+<script>
+let mediaRecorder;
+let audioChunks = [];
+
+/* =======================
+   🎤 MICROPHONE FUNCTIONS
+======================= */
+async function startRecording() {
+    try {
+        const stream = await navigator.mediaDevices.getUserMedia({ audio: true });
+
+        mediaRecorder = new MediaRecorder(stream);
+        audioChunks = [];
+
+        mediaRecorder.ondataavailable = event => {
+            audioChunks.push(event.data);
+        };
+
+        mediaRecorder.start();
+        document.getElementById("status").innerText = "🎤 Recording...";
+    } catch (err) {
+        alert("Microphone access denied!");
+        console.error(err);
+    }
+}
+
+function stopRecording() {
+    if (!mediaRecorder) return;
+
+    mediaRecorder.stop();
+    document.getElementById("status").innerText = "⏳ Processing...";
+
+    mediaRecorder.onstop = async () => {
+        const audioBlob = new Blob(audioChunks, { type: "audio/wav" });
+
+        sendToBackend(audioBlob, "recording.wav");
+    };
+}
+
+
+/* =======================
+   📂 FILE UPLOAD FUNCTION
+======================= */
+function sendAudio() {
+    const fileInput = document.getElementById('audioFile');
+    if (!fileInput.files.length) {
+        alert("Select a file");
+        return;
+    }
+
+    const file = fileInput.files[0];
+    sendToBackend(file, file.name);
+}
+
+/* =======================
+   🚀 COMMON API FUNCTION
+======================= */
+async function sendToBackend(file, filename) {
+    const formData = new FormData();
+    formData.append("file", file, filename);
+
+    const controller = new AbortController();
+    const timeout = setTimeout(() => controller.abort(), 10000);
+
+    try {
+        document.getElementById("status").innerText = "⏳ Sending...";
+
+        const res = await fetch("/voicebot", {
+            method: "POST",
+            body: formData,
+            signal: controller.signal
+        });
+
+        clearTimeout(timeout);
+		
+		let data;
+		try {
+			data = await res.json();
+		} catch {
+			document.getElementById("status").innerText = "❌ Invalid server response";
+			return;
+		}
+
+        document.getElementById("transcript").innerText = data.transcript || "";
+
+        if (data.audio_path) {
+            document.getElementById("response").innerText = data.response;
+
+            const player = document.getElementById("audioPlayer");
+            player.src = data.audio_path;
+            player.play();
+
+            document.getElementById("status").innerText = "✅ Done";
+        } else {
+            document.getElementById("response").innerText = data.error;
+            document.getElementById("status").innerText = "❌ Error";
+        }
+
+    } catch (error) {
+        console.error(error);
+        document.getElementById("status").innerText = "❌ Request failed";
+    }
+}
+</script>
+
+</body>
+</html>

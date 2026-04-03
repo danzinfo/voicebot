@@ -1,0 +1,1001 @@
+text,intent
+Where is my order? #1,order_status
+Track my order please #2,order_status
+Can you tell me my order status? #3,order_status
+Where can I track my order? #4,order_status
+Show me my order status #5,order_status
+Is my order shipped? #6,order_status
+Check my order progress #7,order_status
+I want to know where my order is #8,order_status
+Order tracking details please #9,order_status
+Has my order been delivered? #10,order_status
+What's the status of my order? #11,order_status
+Track order now #12,order_status
+Order update please #13,order_status
+Where is the package? #14,order_status
+Check delivery status #15,order_status
+Where is my order? #16,order_status
+Track my order please #17,order_status
+Can you tell me my order status? #18,order_status
+Where can I track my order? #19,order_status
+Show me my order status #20,order_status
+Is my order shipped? #21,order_status
+Check my order progress #22,order_status
+I want to know where my order is #23,order_status
+Order tracking details please #24,order_status
+Has my order been delivered? #25,order_status
+What's the status of my order? #26,order_status
+Track order now #27,order_status
+Order update please #28,order_status
+Where is the package? #29,order_status
+Check delivery status #30,order_status
+Where is my order? #31,order_status
+Track my order please #32,order_status
+Can you tell me my order status? #33,order_status
+Where can I track my order? #34,order_status
+Show me my order status #35,order_status
+Is my order shipped? #36,order_status
+Check my order progress #37,order_status
+I want to know where my order is #38,order_status
+Order tracking details please #39,order_status
+Has my order been delivered? #40,order_status
+What's the status of my order? #41,order_status
+Track order now #42,order_status
+Order update please #43,order_status
+Where is the package? #44,order_status
+Check delivery status #45,order_status
+Where is my order? #46,order_status
+Track my order please #47,order_status
+Can you tell me my order status? #48,order_status
+Where can I track my order? #49,order_status
+Show me my order status #50,order_status
+Is my order shipped? #51,order_status
+Check my order progress #52,order_status
+I want to know where my order is #53,order_status
+Order tracking details please #54,order_status
+Has my order been delivered? #55,order_status
+What's the status of my order? #56,order_status
+Track order now #57,order_status
+Order update please #58,order_status
+Where is the package? #59,order_status
+Check delivery status #60,order_status
+Where is my order? #61,order_status
+Track my order please #62,order_status
+Can you tell me my order status? #63,order_status
+Where can I track my order? #64,order_status
+Show me my order status #65,order_status
+Is my order shipped? #66,order_status
+Check my order progress #67,order_status
+I want to know where my order is #68,order_status
+Order tracking details please #69,order_status
+Has my order been delivered? #70,order_status
+What's the status of my order? #71,order_status
+Track order now #72,order_status
+Order update please #73,order_status
+Where is the package? #74,order_status
+Check delivery status #75,order_status
+Where is my order? #76,order_status
+Track my order please #77,order_status
+Can you tell me my order status? #78,order_status
+Where can I track my order? #79,order_status
+Show me my order status #80,order_status
+Is my order shipped? #81,order_status
+Check my order progress #82,order_status
+I want to know where my order is #83,order_status
+Order tracking details please #84,order_status
+Has my order been delivered? #85,order_status
+What's the status of my order? #86,order_status
+Track order now #87,order_status
+Order update please #88,order_status
+Where is the package? #89,order_status
+Check delivery status #90,order_status
+Where is my order? #91,order_status
+Track my order please #92,order_status
+Can you tell me my order status? #93,order_status
+Where can I track my order? #94,order_status
+Show me my order status #95,order_status
+Is my order shipped? #96,order_status
+Check my order progress #97,order_status
+I want to know where my order is #98,order_status
+Order tracking details please #99,order_status
+Has my order been delivered? #100,order_status
+I want to cancel my order #1,cancel_order
+Cancel my order immediately #2,cancel_order
+I placed an order by mistake #3,cancel_order
+Please cancel my order #4,cancel_order
+Stop my order #5,cancel_order
+I don’t want this order anymore #6,cancel_order
+Cancel the purchase #7,cancel_order
+Abort my order #8,cancel_order
+Cancel it now #9,cancel_order
+I need to cancel this #10,cancel_order
+Terminate my order #11,cancel_order
+Delete my order #12,cancel_order
+Cancel order request #13,cancel_order
+Stop the delivery #14,cancel_order
+I want to stop my order #15,cancel_order
+I want to cancel my order #16,cancel_order
+Cancel my order immediately #17,cancel_order
+I placed an order by mistake #18,cancel_order
+Please cancel my order #19,cancel_order
+Stop my order #20,cancel_order
+I don’t want this order anymore #21,cancel_order
+Cancel the purchase #22,cancel_order
+Abort my order #23,cancel_order
+Cancel it now #24,cancel_order
+I need to cancel this #25,cancel_order
+Terminate my order #26,cancel_order
+Delete my order #27,cancel_order
+Cancel order request #28,cancel_order
+Stop the delivery #29,cancel_order
+I want to stop my order #30,cancel_order
+I want to cancel my order #31,cancel_order
+Cancel my order immediately #32,cancel_order
+I placed an order by mistake #33,cancel_order
+Please cancel my order #34,cancel_order
+Stop my order #35,cancel_order
+I don’t want this order anymore #36,cancel_order
+Cancel the purchase #37,cancel_order
+Abort my order #38,cancel_order
+Cancel it now #39,cancel_order
+I need to cancel this #40,cancel_order
+Terminate my order #41,cancel_order
+Delete my order #42,cancel_order
+Cancel order request #43,cancel_order
+Stop the delivery #44,cancel_order
+I want to stop my order #45,cancel_order
+I want to cancel my order #46,cancel_order
+Cancel my order immediately #47,cancel_order
+I placed an order by mistake #48,cancel_order
+Please cancel my order #49,cancel_order
+Stop my order #50,cancel_order
+I don’t want this order anymore #51,cancel_order
+Cancel the purchase #52,cancel_order
+Abort my order #53,cancel_order
+Cancel it now #54,cancel_order
+I need to cancel this #55,cancel_order
+Terminate my order #56,cancel_order
+Delete my order #57,cancel_order
+Cancel order request #58,cancel_order
+Stop the delivery #59,cancel_order
+I want to stop my order #60,cancel_order
+I want to cancel my order #61,cancel_order
+Cancel my order immediately #62,cancel_order
+I placed an order by mistake #63,cancel_order
+Please cancel my order #64,cancel_order
+Stop my order #65,cancel_order
+I don’t want this order anymore #66,cancel_order
+Cancel the purchase #67,cancel_order
+Abort my order #68,cancel_order
+Cancel it now #69,cancel_order
+I need to cancel this #70,cancel_order
+Terminate my order #71,cancel_order
+Delete my order #72,cancel_order
+Cancel order request #73,cancel_order
+Stop the delivery #74,cancel_order
+I want to stop my order #75,cancel_order
+I want to cancel my order #76,cancel_order
+Cancel my order immediately #77,cancel_order
+I placed an order by mistake #78,cancel_order
+Please cancel my order #79,cancel_order
+Stop my order #80,cancel_order
+I don’t want this order anymore #81,cancel_order
+Cancel the purchase #82,cancel_order
+Abort my order #83,cancel_order
+Cancel it now #84,cancel_order
+I need to cancel this #85,cancel_order
+Terminate my order #86,cancel_order
+Delete my order #87,cancel_order
+Cancel order request #88,cancel_order
+Stop the delivery #89,cancel_order
+I want to stop my order #90,cancel_order
+I want to cancel my order #91,cancel_order
+Cancel my order immediately #92,cancel_order
+I placed an order by mistake #93,cancel_order
+Please cancel my order #94,cancel_order
+Stop my order #95,cancel_order
+I don’t want this order anymore #96,cancel_order
+Cancel the purchase #97,cancel_order
+Abort my order #98,cancel_order
+Cancel it now #99,cancel_order
+I need to cancel this #100,cancel_order
+I want a refund #1,refund_request
+Refund my money #2,refund_request
+I need my money back #3,refund_request
+Please process my refund #4,refund_request
+Return my payment #5,refund_request
+I want my cash back #6,refund_request
+Refund request #7,refund_request
+Give me a refund #8,refund_request
+"I didn’t like it, refund me #9",refund_request
+Money back please #10,refund_request
+Can I get a refund? #11,refund_request
+Requesting refund #12,refund_request
+Refund this order #13,refund_request
+I want to return and refund #14,refund_request
+Issue my refund now #15,refund_request
+I want a refund #16,refund_request
+Refund my money #17,refund_request
+I need my money back #18,refund_request
+Please process my refund #19,refund_request
+Return my payment #20,refund_request
+I want my cash back #21,refund_request
+Refund request #22,refund_request
+Give me a refund #23,refund_request
+"I didn’t like it, refund me #24",refund_request
+Money back please #25,refund_request
+Can I get a refund? #26,refund_request
+Requesting refund #27,refund_request
+Refund this order #28,refund_request
+I want to return and refund #29,refund_request
+Issue my refund now #30,refund_request
+I want a refund #31,refund_request
+Refund my money #32,refund_request
+I need my money back #33,refund_request
+Please process my refund #34,refund_request
+Return my payment #35,refund_request
+I want my cash back #36,refund_request
+Refund request #37,refund_request
+Give me a refund #38,refund_request
+"I didn’t like it, refund me #39",refund_request
+Money back please #40,refund_request
+Can I get a refund? #41,refund_request
+Requesting refund #42,refund_request
+Refund this order #43,refund_request
+I want to return and refund #44,refund_request
+Issue my refund now #45,refund_request
+I want a refund #46,refund_request
+Refund my money #47,refund_request
+I need my money back #48,refund_request
+Please process my refund #49,refund_request
+Return my payment #50,refund_request
+I want my cash back #51,refund_request
+Refund request #52,refund_request
+Give me a refund #53,refund_request
+"I didn’t like it, refund me #54",refund_request
+Money back please #55,refund_request
+Can I get a refund? #56,refund_request
+Requesting refund #57,refund_request
+Refund this order #58,refund_request
+I want to return and refund #59,refund_request
+Issue my refund now #60,refund_request
+I want a refund #61,refund_request
+Refund my money #62,refund_request
+I need my money back #63,refund_request
+Please process my refund #64,refund_request
+Return my payment #65,refund_request
+I want my cash back #66,refund_request
+Refund request #67,refund_request
+Give me a refund #68,refund_request
+"I didn’t like it, refund me #69",refund_request
+Money back please #70,refund_request
+Can I get a refund? #71,refund_request
+Requesting refund #72,refund_request
+Refund this order #73,refund_request
+I want to return and refund #74,refund_request
+Issue my refund now #75,refund_request
+I want a refund #76,refund_request
+Refund my money #77,refund_request
+I need my money back #78,refund_request
+Please process my refund #79,refund_request
+Return my payment #80,refund_request
+I want my cash back #81,refund_request
+Refund request #82,refund_request
+Give me a refund #83,refund_request
+"I didn’t like it, refund me #84",refund_request
+Money back please #85,refund_request
+Can I get a refund? #86,refund_request
+Requesting refund #87,refund_request
+Refund this order #88,refund_request
+I want to return and refund #89,refund_request
+Issue my refund now #90,refund_request
+I want a refund #91,refund_request
+Refund my money #92,refund_request
+I need my money back #93,refund_request
+Please process my refund #94,refund_request
+Return my payment #95,refund_request
+I want my cash back #96,refund_request
+Refund request #97,refund_request
+Give me a refund #98,refund_request
+"I didn’t like it, refund me #99",refund_request
+Money back please #100,refund_request
+My subscription is not working #1,subscription_issue
+Subscription failed #2,subscription_issue
+I can't access my subscription #3,subscription_issue
+My plan is not active #4,subscription_issue
+Subscription problem #5,subscription_issue
+Fix my subscription #6,subscription_issue
+Subscription error #7,subscription_issue
+Why is my subscription not working? #8,subscription_issue
+I lost access to subscription #9,subscription_issue
+Subscription not loading #10,subscription_issue
+Plan not working #11,subscription_issue
+Subscription issue help #12,subscription_issue
+Can't use my plan #13,subscription_issue
+Subscription not available #14,subscription_issue
+Problem with my plan #15,subscription_issue
+My subscription is not working #16,subscription_issue
+Subscription failed #17,subscription_issue
+I can't access my subscription #18,subscription_issue
+My plan is not active #19,subscription_issue
+Subscription problem #20,subscription_issue
+Fix my subscription #21,subscription_issue
+Subscription error #22,subscription_issue
+Why is my subscription not working? #23,subscription_issue
+I lost access to subscription #24,subscription_issue
+Subscription not loading #25,subscription_issue
+Plan not working #26,subscription_issue
+Subscription issue help #27,subscription_issue
+Can't use my plan #28,subscription_issue
+Subscription not available #29,subscription_issue
+Problem with my plan #30,subscription_issue
+My subscription is not working #31,subscription_issue
+Subscription failed #32,subscription_issue
+I can't access my subscription #33,subscription_issue
+My plan is not active #34,subscription_issue
+Subscription problem #35,subscription_issue
+Fix my subscription #36,subscription_issue
+Subscription error #37,subscription_issue
+Why is my subscription not working? #38,subscription_issue
+I lost access to subscription #39,subscription_issue
+Subscription not loading #40,subscription_issue
+Plan not working #41,subscription_issue
+Subscription issue help #42,subscription_issue
+Can't use my plan #43,subscription_issue
+Subscription not available #44,subscription_issue
+Problem with my plan #45,subscription_issue
+My subscription is not working #46,subscription_issue
+Subscription failed #47,subscription_issue
+I can't access my subscription #48,subscription_issue
+My plan is not active #49,subscription_issue
+Subscription problem #50,subscription_issue
+Fix my subscription #51,subscription_issue
+Subscription error #52,subscription_issue
+Why is my subscription not working? #53,subscription_issue
+I lost access to subscription #54,subscription_issue
+Subscription not loading #55,subscription_issue
+Plan not working #56,subscription_issue
+Subscription issue help #57,subscription_issue
+Can't use my plan #58,subscription_issue
+Subscription not available #59,subscription_issue
+Problem with my plan #60,subscription_issue
+My subscription is not working #61,subscription_issue
+Subscription failed #62,subscription_issue
+I can't access my subscription #63,subscription_issue
+My plan is not active #64,subscription_issue
+Subscription problem #65,subscription_issue
+Fix my subscription #66,subscription_issue
+Subscription error #67,subscription_issue
+Why is my subscription not working? #68,subscription_issue
+I lost access to subscription #69,subscription_issue
+Subscription not loading #70,subscription_issue
+Plan not working #71,subscription_issue
+Subscription issue help #72,subscription_issue
+Can't use my plan #73,subscription_issue
+Subscription not available #74,subscription_issue
+Problem with my plan #75,subscription_issue
+My subscription is not working #76,subscription_issue
+Subscription failed #77,subscription_issue
+I can't access my subscription #78,subscription_issue
+My plan is not active #79,subscription_issue
+Subscription problem #80,subscription_issue
+Fix my subscription #81,subscription_issue
+Subscription error #82,subscription_issue
+Why is my subscription not working? #83,subscription_issue
+I lost access to subscription #84,subscription_issue
+Subscription not loading #85,subscription_issue
+Plan not working #86,subscription_issue
+Subscription issue help #87,subscription_issue
+Can't use my plan #88,subscription_issue
+Subscription not available #89,subscription_issue
+Problem with my plan #90,subscription_issue
+My subscription is not working #91,subscription_issue
+Subscription failed #92,subscription_issue
+I can't access my subscription #93,subscription_issue
+My plan is not active #94,subscription_issue
+Subscription problem #95,subscription_issue
+Fix my subscription #96,subscription_issue
+Subscription error #97,subscription_issue
+Why is my subscription not working? #98,subscription_issue
+I lost access to subscription #99,subscription_issue
+Subscription not loading #100,subscription_issue
+Payment failed #1,payment_issue
+My payment didn't go through #2,payment_issue
+Transaction failed #3,payment_issue
+Payment error occurred #4,payment_issue
+I can’t complete payment #5,payment_issue
+Payment not successful #6,payment_issue
+My card was declined #7,payment_issue
+Payment problem #8,payment_issue
+Why did payment fail? #9,payment_issue
+Payment not processed #10,payment_issue
+Transaction error #11,payment_issue
+Issue with payment #12,payment_issue
+Payment stuck #13,payment_issue
+Payment unsuccessful #14,payment_issue
+Can't pay for order #15,payment_issue
+Payment failed #16,payment_issue
+My payment didn't go through #17,payment_issue
+Transaction failed #18,payment_issue
+Payment error occurred #19,payment_issue
+I can’t complete payment #20,payment_issue
+Payment not successful #21,payment_issue
+My card was declined #22,payment_issue
+Payment problem #23,payment_issue
+Why did payment fail? #24,payment_issue
+Payment not processed #25,payment_issue
+Transaction error #26,payment_issue
+Issue with payment #27,payment_issue
+Payment stuck #28,payment_issue
+Payment unsuccessful #29,payment_issue
+Can't pay for order #30,payment_issue
+Payment failed #31,payment_issue
+My payment didn't go through #32,payment_issue
+Transaction failed #33,payment_issue
+Payment error occurred #34,payment_issue
+I can’t complete payment #35,payment_issue
+Payment not successful #36,payment_issue
+My card was declined #37,payment_issue
+Payment problem #38,payment_issue
+Why did payment fail? #39,payment_issue
+Payment not processed #40,payment_issue
+Transaction error #41,payment_issue
+Issue with payment #42,payment_issue
+Payment stuck #43,payment_issue
+Payment unsuccessful #44,payment_issue
+Can't pay for order #45,payment_issue
+Payment failed #46,payment_issue
+My payment didn't go through #47,payment_issue
+Transaction failed #48,payment_issue
+Payment error occurred #49,payment_issue
+I can’t complete payment #50,payment_issue
+Payment not successful #51,payment_issue
+My card was declined #52,payment_issue
+Payment problem #53,payment_issue
+Why did payment fail? #54,payment_issue
+Payment not processed #55,payment_issue
+Transaction error #56,payment_issue
+Issue with payment #57,payment_issue
+Payment stuck #58,payment_issue
+Payment unsuccessful #59,payment_issue
+Can't pay for order #60,payment_issue
+Payment failed #61,payment_issue
+My payment didn't go through #62,payment_issue
+Transaction failed #63,payment_issue
+Payment error occurred #64,payment_issue
+I can’t complete payment #65,payment_issue
+Payment not successful #66,payment_issue
+My card was declined #67,payment_issue
+Payment problem #68,payment_issue
+Why did payment fail? #69,payment_issue
+Payment not processed #70,payment_issue
+Transaction error #71,payment_issue
+Issue with payment #72,payment_issue
+Payment stuck #73,payment_issue
+Payment unsuccessful #74,payment_issue
+Can't pay for order #75,payment_issue
+Payment failed #76,payment_issue
+My payment didn't go through #77,payment_issue
+Transaction failed #78,payment_issue
+Payment error occurred #79,payment_issue
+I can’t complete payment #80,payment_issue
+Payment not successful #81,payment_issue
+My card was declined #82,payment_issue
+Payment problem #83,payment_issue
+Why did payment fail? #84,payment_issue
+Payment not processed #85,payment_issue
+Transaction error #86,payment_issue
+Issue with payment #87,payment_issue
+Payment stuck #88,payment_issue
+Payment unsuccessful #89,payment_issue
+Can't pay for order #90,payment_issue
+Payment failed #91,payment_issue
+My payment didn't go through #92,payment_issue
+Transaction failed #93,payment_issue
+Payment error occurred #94,payment_issue
+I can’t complete payment #95,payment_issue
+Payment not successful #96,payment_issue
+My card was declined #97,payment_issue
+Payment problem #98,payment_issue
+Why did payment fail? #99,payment_issue
+Payment not processed #100,payment_issue
+I have a complaint #1,complaint
+This is unacceptable #2,complaint
+I am not happy with your service #3,complaint
+I want to complain #4,complaint
+This is bad service #5,complaint
+Very disappointed #6,complaint
+I didn’t like your service #7,complaint
+This is terrible #8,complaint
+I have an issue to report #9,complaint
+Not satisfied #10,complaint
+I’m unhappy #11,complaint
+Poor experience #12,complaint
+This needs improvement #13,complaint
+I want to report a problem #14,complaint
+Bad service #15,complaint
+I have a complaint #16,complaint
+This is unacceptable #17,complaint
+I am not happy with your service #18,complaint
+I want to complain #19,complaint
+This is bad service #20,complaint
+Very disappointed #21,complaint
+I didn’t like your service #22,complaint
+This is terrible #23,complaint
+I have an issue to report #24,complaint
+Not satisfied #25,complaint
+I’m unhappy #26,complaint
+Poor experience #27,complaint
+This needs improvement #28,complaint
+I want to report a problem #29,complaint
+Bad service #30,complaint
+I have a complaint #31,complaint
+This is unacceptable #32,complaint
+I am not happy with your service #33,complaint
+I want to complain #34,complaint
+This is bad service #35,complaint
+Very disappointed #36,complaint
+I didn’t like your service #37,complaint
+This is terrible #38,complaint
+I have an issue to report #39,complaint
+Not satisfied #40,complaint
+I’m unhappy #41,complaint
+Poor experience #42,complaint
+This needs improvement #43,complaint
+I want to report a problem #44,complaint
+Bad service #45,complaint
+I have a complaint #46,complaint
+This is unacceptable #47,complaint
+I am not happy with your service #48,complaint
+I want to complain #49,complaint
+This is bad service #50,complaint
+Very disappointed #51,complaint
+I didn’t like your service #52,complaint
+This is terrible #53,complaint
+I have an issue to report #54,complaint
+Not satisfied #55,complaint
+I’m unhappy #56,complaint
+Poor experience #57,complaint
+This needs improvement #58,complaint
+I want to report a problem #59,complaint
+Bad service #60,complaint
+I have a complaint #61,complaint
+This is unacceptable #62,complaint
+I am not happy with your service #63,complaint
+I want to complain #64,complaint
+This is bad service #65,complaint
+Very disappointed #66,complaint
+I didn’t like your service #67,complaint
+This is terrible #68,complaint
+I have an issue to report #69,complaint
+Not satisfied #70,complaint
+I’m unhappy #71,complaint
+Poor experience #72,complaint
+This needs improvement #73,complaint
+I want to report a problem #74,complaint
+Bad service #75,complaint
+I have a complaint #76,complaint
+This is unacceptable #77,complaint
+I am not happy with your service #78,complaint
+I want to complain #79,complaint
+This is bad service #80,complaint
+Very disappointed #81,complaint
+I didn’t like your service #82,complaint
+This is terrible #83,complaint
+I have an issue to report #84,complaint
+Not satisfied #85,complaint
+I’m unhappy #86,complaint
+Poor experience #87,complaint
+This needs improvement #88,complaint
+I want to report a problem #89,complaint
+Bad service #90,complaint
+I have a complaint #91,complaint
+This is unacceptable #92,complaint
+I am not happy with your service #93,complaint
+I want to complain #94,complaint
+This is bad service #95,complaint
+Very disappointed #96,complaint
+I didn’t like your service #97,complaint
+This is terrible #98,complaint
+I have an issue to report #99,complaint
+Not satisfied #100,complaint
+Tell me about the product #1,product_info
+Give product details #2,product_info
+What is this product? #3,product_info
+Explain this product #4,product_info
+Product information please #5,product_info
+Details about this item #6,product_info
+What does this product do? #7,product_info
+Describe the product #8,product_info
+Show product specs #9,product_info
+I need product info #10,product_info
+More details about product #11,product_info
+Tell me features #12,product_info
+Product description #13,product_info
+What are the specs? #14,product_info
+Info about item #15,product_info
+Tell me about the product #16,product_info
+Give product details #17,product_info
+What is this product? #18,product_info
+Explain this product #19,product_info
+Product information please #20,product_info
+Details about this item #21,product_info
+What does this product do? #22,product_info
+Describe the product #23,product_info
+Show product specs #24,product_info
+I need product info #25,product_info
+More details about product #26,product_info
+Tell me features #27,product_info
+Product description #28,product_info
+What are the specs? #29,product_info
+Info about item #30,product_info
+Tell me about the product #31,product_info
+Give product details #32,product_info
+What is this product? #33,product_info
+Explain this product #34,product_info
+Product information please #35,product_info
+Details about this item #36,product_info
+What does this product do? #37,product_info
+Describe the product #38,product_info
+Show product specs #39,product_info
+I need product info #40,product_info
+More details about product #41,product_info
+Tell me features #42,product_info
+Product description #43,product_info
+What are the specs? #44,product_info
+Info about item #45,product_info
+Tell me about the product #46,product_info
+Give product details #47,product_info
+What is this product? #48,product_info
+Explain this product #49,product_info
+Product information please #50,product_info
+Details about this item #51,product_info
+What does this product do? #52,product_info
+Describe the product #53,product_info
+Show product specs #54,product_info
+I need product info #55,product_info
+More details about product #56,product_info
+Tell me features #57,product_info
+Product description #58,product_info
+What are the specs? #59,product_info
+Info about item #60,product_info
+Tell me about the product #61,product_info
+Give product details #62,product_info
+What is this product? #63,product_info
+Explain this product #64,product_info
+Product information please #65,product_info
+Details about this item #66,product_info
+What does this product do? #67,product_info
+Describe the product #68,product_info
+Show product specs #69,product_info
+I need product info #70,product_info
+More details about product #71,product_info
+Tell me features #72,product_info
+Product description #73,product_info
+What are the specs? #74,product_info
+Info about item #75,product_info
+Tell me about the product #76,product_info
+Give product details #77,product_info
+What is this product? #78,product_info
+Explain this product #79,product_info
+Product information please #80,product_info
+Details about this item #81,product_info
+What does this product do? #82,product_info
+Describe the product #83,product_info
+Show product specs #84,product_info
+I need product info #85,product_info
+More details about product #86,product_info
+Tell me features #87,product_info
+Product description #88,product_info
+What are the specs? #89,product_info
+Info about item #90,product_info
+Tell me about the product #91,product_info
+Give product details #92,product_info
+What is this product? #93,product_info
+Explain this product #94,product_info
+Product information please #95,product_info
+Details about this item #96,product_info
+What does this product do? #97,product_info
+Describe the product #98,product_info
+Show product specs #99,product_info
+I need product info #100,product_info
+My delivery is late #1,delivery_delay
+Order is delayed #2,delivery_delay
+Why is my order late? #3,delivery_delay
+Delivery is taking too long #4,delivery_delay
+My package is late #5,delivery_delay
+Delayed delivery #6,delivery_delay
+Order not delivered yet #7,delivery_delay
+Where is my delivery? #8,delivery_delay
+Late shipment #9,delivery_delay
+Delivery delay issue #10,delivery_delay
+Package delay #11,delivery_delay
+Order hasn’t arrived #12,delivery_delay
+Why is delivery delayed? #13,delivery_delay
+Delivery is slow #14,delivery_delay
+Shipment delay #15,delivery_delay
+My delivery is late #16,delivery_delay
+Order is delayed #17,delivery_delay
+Why is my order late? #18,delivery_delay
+Delivery is taking too long #19,delivery_delay
+My package is late #20,delivery_delay
+Delayed delivery #21,delivery_delay
+Order not delivered yet #22,delivery_delay
+Where is my delivery? #23,delivery_delay
+Late shipment #24,delivery_delay
+Delivery delay issue #25,delivery_delay
+Package delay #26,delivery_delay
+Order hasn’t arrived #27,delivery_delay
+Why is delivery delayed? #28,delivery_delay
+Delivery is slow #29,delivery_delay
+Shipment delay #30,delivery_delay
+My delivery is late #31,delivery_delay
+Order is delayed #32,delivery_delay
+Why is my order late? #33,delivery_delay
+Delivery is taking too long #34,delivery_delay
+My package is late #35,delivery_delay
+Delayed delivery #36,delivery_delay
+Order not delivered yet #37,delivery_delay
+Where is my delivery? #38,delivery_delay
+Late shipment #39,delivery_delay
+Delivery delay issue #40,delivery_delay
+Package delay #41,delivery_delay
+Order hasn’t arrived #42,delivery_delay
+Why is delivery delayed? #43,delivery_delay
+Delivery is slow #44,delivery_delay
+Shipment delay #45,delivery_delay
+My delivery is late #46,delivery_delay
+Order is delayed #47,delivery_delay
+Why is my order late? #48,delivery_delay
+Delivery is taking too long #49,delivery_delay
+My package is late #50,delivery_delay
+Delayed delivery #51,delivery_delay
+Order not delivered yet #52,delivery_delay
+Where is my delivery? #53,delivery_delay
+Late shipment #54,delivery_delay
+Delivery delay issue #55,delivery_delay
+Package delay #56,delivery_delay
+Order hasn’t arrived #57,delivery_delay
+Why is delivery delayed? #58,delivery_delay
+Delivery is slow #59,delivery_delay
+Shipment delay #60,delivery_delay
+My delivery is late #61,delivery_delay
+Order is delayed #62,delivery_delay
+Why is my order late? #63,delivery_delay
+Delivery is taking too long #64,delivery_delay
+My package is late #65,delivery_delay
+Delayed delivery #66,delivery_delay
+Order not delivered yet #67,delivery_delay
+Where is my delivery? #68,delivery_delay
+Late shipment #69,delivery_delay
+Delivery delay issue #70,delivery_delay
+Package delay #71,delivery_delay
+Order hasn’t arrived #72,delivery_delay
+Why is delivery delayed? #73,delivery_delay
+Delivery is slow #74,delivery_delay
+Shipment delay #75,delivery_delay
+My delivery is late #76,delivery_delay
+Order is delayed #77,delivery_delay
+Why is my order late? #78,delivery_delay
+Delivery is taking too long #79,delivery_delay
+My package is late #80,delivery_delay
+Delayed delivery #81,delivery_delay
+Order not delivered yet #82,delivery_delay
+Where is my delivery? #83,delivery_delay
+Late shipment #84,delivery_delay
+Delivery delay issue #85,delivery_delay
+Package delay #86,delivery_delay
+Order hasn’t arrived #87,delivery_delay
+Why is delivery delayed? #88,delivery_delay
+Delivery is slow #89,delivery_delay
+Shipment delay #90,delivery_delay
+My delivery is late #91,delivery_delay
+Order is delayed #92,delivery_delay
+Why is my order late? #93,delivery_delay
+Delivery is taking too long #94,delivery_delay
+My package is late #95,delivery_delay
+Delayed delivery #96,delivery_delay
+Order not delivered yet #97,delivery_delay
+Where is my delivery? #98,delivery_delay
+Late shipment #99,delivery_delay
+Delivery delay issue #100,delivery_delay
+I cannot login #1,account_issue
+Account problem #2,account_issue
+Reset my account #3,account_issue
+Login issue #4,account_issue
+Can't access my account #5,account_issue
+Account not working #6,account_issue
+Help with login #7,account_issue
+Forgot my password #8,account_issue
+Account error #9,account_issue
+Unable to sign in #10,account_issue
+Login failed #11,account_issue
+Account locked #12,account_issue
+Issue with account #13,account_issue
+Fix my account #14,account_issue
+Problem logging in #15,account_issue
+I cannot login #16,account_issue
+Account problem #17,account_issue
+Reset my account #18,account_issue
+Login issue #19,account_issue
+Can't access my account #20,account_issue
+Account not working #21,account_issue
+Help with login #22,account_issue
+Forgot my password #23,account_issue
+Account error #24,account_issue
+Unable to sign in #25,account_issue
+Login failed #26,account_issue
+Account locked #27,account_issue
+Issue with account #28,account_issue
+Fix my account #29,account_issue
+Problem logging in #30,account_issue
+I cannot login #31,account_issue
+Account problem #32,account_issue
+Reset my account #33,account_issue
+Login issue #34,account_issue
+Can't access my account #35,account_issue
+Account not working #36,account_issue
+Help with login #37,account_issue
+Forgot my password #38,account_issue
+Account error #39,account_issue
+Unable to sign in #40,account_issue
+Login failed #41,account_issue
+Account locked #42,account_issue
+Issue with account #43,account_issue
+Fix my account #44,account_issue
+Problem logging in #45,account_issue
+I cannot login #46,account_issue
+Account problem #47,account_issue
+Reset my account #48,account_issue
+Login issue #49,account_issue
+Can't access my account #50,account_issue
+Account not working #51,account_issue
+Help with login #52,account_issue
+Forgot my password #53,account_issue
+Account error #54,account_issue
+Unable to sign in #55,account_issue
+Login failed #56,account_issue
+Account locked #57,account_issue
+Issue with account #58,account_issue
+Fix my account #59,account_issue
+Problem logging in #60,account_issue
+I cannot login #61,account_issue
+Account problem #62,account_issue
+Reset my account #63,account_issue
+Login issue #64,account_issue
+Can't access my account #65,account_issue
+Account not working #66,account_issue
+Help with login #67,account_issue
+Forgot my password #68,account_issue
+Account error #69,account_issue
+Unable to sign in #70,account_issue
+Login failed #71,account_issue
+Account locked #72,account_issue
+Issue with account #73,account_issue
+Fix my account #74,account_issue
+Problem logging in #75,account_issue
+I cannot login #76,account_issue
+Account problem #77,account_issue
+Reset my account #78,account_issue
+Login issue #79,account_issue
+Can't access my account #80,account_issue
+Account not working #81,account_issue
+Help with login #82,account_issue
+Forgot my password #83,account_issue
+Account error #84,account_issue
+Unable to sign in #85,account_issue
+Login failed #86,account_issue
+Account locked #87,account_issue
+Issue with account #88,account_issue
+Fix my account #89,account_issue
+Problem logging in #90,account_issue
+I cannot login #91,account_issue
+Account problem #92,account_issue
+Reset my account #93,account_issue
+Login issue #94,account_issue
+Can't access my account #95,account_issue
+Account not working #96,account_issue
+Help with login #97,account_issue
+Forgot my password #98,account_issue
+Account error #99,account_issue
+Unable to sign in #100,account_issue
+Hello #1,greeting
+Hi #2,greeting
+Good morning #3,greeting
+Hey #4,greeting
+Hello there #5,greeting
+Hi bot #6,greeting
+Hey assistant #7,greeting
+Good evening #8,greeting
+Hi there #9,greeting
+Hello bot #10,greeting
+Greetings #11,greeting
+Hey there #12,greeting
+Yo #13,greeting
+Hi hello #14,greeting
+Good day #15,greeting
+Hello #16,greeting
+Hi #17,greeting
+Good morning #18,greeting
+Hey #19,greeting
+Hello there #20,greeting
+Hi bot #21,greeting
+Hey assistant #22,greeting
+Good evening #23,greeting
+Hi there #24,greeting
+Hello bot #25,greeting
+Greetings #26,greeting
+Hey there #27,greeting
+Yo #28,greeting
+Hi hello #29,greeting
+Good day #30,greeting
+Hello #31,greeting
+Hi #32,greeting
+Good morning #33,greeting
+Hey #34,greeting
+Hello there #35,greeting
+Hi bot #36,greeting
+Hey assistant #37,greeting
+Good evening #38,greeting
+Hi there #39,greeting
+Hello bot #40,greeting
+Greetings #41,greeting
+Hey there #42,greeting
+Yo #43,greeting
+Hi hello #44,greeting
+Good day #45,greeting
+Hello #46,greeting
+Hi #47,greeting
+Good morning #48,greeting
+Hey #49,greeting
+Hello there #50,greeting
+Hi bot #51,greeting
+Hey assistant #52,greeting
+Good evening #53,greeting
+Hi there #54,greeting
+Hello bot #55,greeting
+Greetings #56,greeting
+Hey there #57,greeting
+Yo #58,greeting
+Hi hello #59,greeting
+Good day #60,greeting
+Hello #61,greeting
+Hi #62,greeting
+Good morning #63,greeting
+Hey #64,greeting
+Hello there #65,greeting
+Hi bot #66,greeting
+Hey assistant #67,greeting
+Good evening #68,greeting
+Hi there #69,greeting
+Hello bot #70,greeting
+Greetings #71,greeting
+Hey there #72,greeting
+Yo #73,greeting
+Hi hello #74,greeting
+Good day #75,greeting
+Hello #76,greeting
+Hi #77,greeting
+Good morning #78,greeting
+Hey #79,greeting
+Hello there #80,greeting
+Hi bot #81,greeting
+Hey assistant #82,greeting
+Good evening #83,greeting
+Hi there #84,greeting
+Hello bot #85,greeting
+Greetings #86,greeting
+Hey there #87,greeting
+Yo #88,greeting
+Hi hello #89,greeting
+Good day #90,greeting
+Hello #91,greeting
+Hi #92,greeting
+Good morning #93,greeting
+Hey #94,greeting
+Hello there #95,greeting
+Hi bot #96,greeting
+Hey assistant #97,greeting
+Good evening #98,greeting
+Hi there #99,greeting
+Hello bot #100,greeting

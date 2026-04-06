@@ -1,3 +1,11 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:0951f37c22ff49b7d54209e812f2ec2128060b9705045c37862aac81600665bd
-size 177
+fastapi==0.111.0
+uvicorn[standard]==0.23.2
+transformers==4.38.2
+torch==2.2.0
+torchaudio==2.2.0
+openai-whisper
+gTTS==2.3.2
+ffmpeg-python==0.2.0
+python-multipart==0.0.8
+numpy==1.26.4
+accelerate==0.27.2
